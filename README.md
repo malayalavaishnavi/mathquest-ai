@@ -1,1 +1,1 @@
-# mathquest-ai
+# mathverse-ai
